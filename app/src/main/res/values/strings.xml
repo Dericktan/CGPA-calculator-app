@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CGPACalculator</string>
+    <string name="your_full_name">Your Full Name</string>
+    <string name="your_student_no">Your Student No.</string>
+    <string name="login">Login</string>
+    <string name="subject_code">Subject Code</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="credit_hour">Credit Hour</string>
+    <string name="grade">Grade : </string>
+    <string name="save_and_calculate">Save and Calculate</string>
+    <string name="your_current_cgpa">Your current CGPA : </string>
+</resources>
